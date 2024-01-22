@@ -151,7 +151,7 @@ Open the 'main.py' file and click on "Run" to execute it.
    - Go to `/dk.sdu.bdd.xtext.examples/src/dk/sdu/bdd/xtext/examples/features`.
    - Open the 'main.py' file and execute it.
 
-### Write a new Scenario and use the DSL features.
+### Write a new Scenario and use the DSL features
 
 In order to use the features provided by Xtext, including syntax highlighting, code completion, error checking and navigation, we need to run a second Eclipse instance providing a new editor with the features mentioned.
 
