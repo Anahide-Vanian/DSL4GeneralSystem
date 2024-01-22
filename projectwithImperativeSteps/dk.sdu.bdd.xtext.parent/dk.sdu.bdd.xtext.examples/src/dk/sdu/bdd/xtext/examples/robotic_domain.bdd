@@ -1,0 +1,13 @@
+model robotic_domain
+
+imperative entity robot {
+	actions: moves, stands_still
+	properties: position, speed
+}
+
+imperative entity figure {
+	actions: takes_shape
+	states: NOT_DONE, IN_PROGRESS, NEAR_COMPLETION, DONE  
+	
+}	
+ 

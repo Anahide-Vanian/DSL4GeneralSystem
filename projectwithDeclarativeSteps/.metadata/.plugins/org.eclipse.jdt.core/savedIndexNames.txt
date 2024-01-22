@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+C:\Users\ansil\eclipse-workspace\project\projectwithDeclarativeSteps\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
