@@ -1,5 +1,3 @@
-from msilib.schema import Feature
-from pyexpat import features
 from behave import fixture
 import json
 from behave.model import Scenario

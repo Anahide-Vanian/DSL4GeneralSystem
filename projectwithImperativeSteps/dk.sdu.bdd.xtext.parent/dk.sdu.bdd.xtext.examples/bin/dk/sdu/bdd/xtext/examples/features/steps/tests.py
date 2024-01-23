@@ -1,4 +1,3 @@
-from msilib.schema import Feature
 from behave import when, given, then
 import time
 import environment as env #modif

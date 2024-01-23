@@ -6,6 +6,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\ansil\eclipse-workspace\projectRobotDrawing\projectwithImperativeSteps\dk.sdu.bdd.xtext.parent"/>
 			<item value="C:\Users\ansil\eclipse-workspace\project\projectwithImperativeSteps\dk.sdu.bdd.xtext.parent"/>
 		</list>
 	</section>
